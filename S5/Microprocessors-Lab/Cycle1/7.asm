@@ -1,0 +1,20 @@
+	   MVI B,00
+	   LXI H,4000
+	   MOV C,M
+	   DCR C
+	   INX H
+	   MOV A,M
+
+LOP:	   INX H
+	   ADD M
+	   JNC END
+	   INR B
+
+END:	   DCR C
+	   JNZ LOP
+	   STA 4100
+	   MOV A,B
+	   STA 4101
+	   HLT
+# ORG 4000
+# DB 00H, 06H,70H,45H,AAH,35H,BDH,66H

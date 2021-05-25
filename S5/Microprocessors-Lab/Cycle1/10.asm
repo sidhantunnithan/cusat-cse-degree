@@ -1,0 +1,9 @@
+
+START:	   LDA 4000
+	   CMA
+	   STA 4001
+	   ADI 01
+	   STA 4002
+	   HLT
+# ORG 4000
+# DB 08H

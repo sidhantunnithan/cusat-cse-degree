@@ -1,0 +1,21 @@
+
+START:	   LXI H,4000
+	   MVI D,00
+	   MVI A,00
+	   MOV C,M
+	   JZ END
+
+MULTIPLY:	   ADI 01
+	   DAA
+	   JC SKIP
+	   INR D
+
+SKIP:	   DCR C
+	   JNZ MULTIPLY
+
+END:	   MOV H,A
+	   MOV L,D
+	   SHLD 5000
+	   HLT
+# ORG 4000
+# DB 41H

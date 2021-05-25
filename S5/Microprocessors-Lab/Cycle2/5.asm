@@ -1,0 +1,27 @@
+
+START:	   LXI H,4000
+	   MOV A,M
+	   ANI 0F
+
+ONE:	   CPI 0A
+	   JC SKIPONE
+	   ADI 07
+
+SKIPONE:	   ADI 30
+	   STA 5001
+
+TWO:	   MOV A,M
+	   RLC
+	   RLC
+	   RLC
+	   RLC
+	   ANI 0F
+	   CPI 0A
+	   JC SKIPTWO
+	   ADI 07
+
+SKIPTWO:	   ADI 30
+	   STA 5000
+	   HLT
+# ORG 4000
+# DB FFH
