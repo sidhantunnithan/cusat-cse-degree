@@ -57,26 +57,26 @@ A : [ASCII to Hex Converter](./Cycle2/6.asm)
 ## Cycle 3
 Q : Demonstrate Addition in Intel 8086 
 
-A : [Addition](./Cycle2/ADDITION.asm)
+A : [Addition](./Cycle3/ADDITION.asm)
 
 Q : Demonstrate Comparison in Intel 8086 
 
-A : [Comparison](./Cycle2/COMP.asm)
+A : [Comparison](./Cycle3/COMP.asm)
 
 Q : Demonstrate Concatenation in Intel 8086 
 
-A : [Concatenation](./Cycle2/CONCAT.asm)
+A : [Concatenation](./Cycle3/CONCAT.asm)
 
 Q : Demonstrate Multiplication in Intel 8086 
 
-A : [Multiplication](./Cycle2/MULTIPLY.asm)
+A : [Multiplication](./Cycle3/MULTIPLY.asm)
 
 Q : Demonstrate String Operations in Intel 8086 
 
-A : [String Operations](./Cycle2/STRING.asm)
+A : [String Operations](./Cycle3/STRING.asm)
 
 ## Exam
 Q : Given a list of numbers, separate them into Odd and Even numbers in Intel 8086 
 
-A : [Odd Even](./Cycle2/Odd-Even.asm)
+A : [Odd Even](./Odd-Even.asm)
 
