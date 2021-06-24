@@ -80,3 +80,8 @@ Q : Given a list of numbers, separate them into Odd and Even numbers in Intel 80
 
 A : [Odd Even](./Odd-Even.asm)
 
+## End-Sem Exam
+Q : Given a string, replace the given character with another user provided character Intel 8086 
+
+A : [Character Replace](./Character-Replace.asm)
+
