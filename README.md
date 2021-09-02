@@ -11,3 +11,7 @@ The collection of code I wrote for various labs and courses during my Bachelor's
 - [Microprocessor Lab](./S5/Microprocessors-Lab/index.md)
 ### Semester 6
 - [Operating Systems Lab](./S6/Operating-Systems-Lab/index.md)
+- [Data Mining](./S6/Data-Mining/index.md)
+### Semester 7
+- [Language Processors Lab](./S7/Language-Processors-Lab/index.md)
+- [Networks Lab](./S7/Networks-Lab/index.md)
