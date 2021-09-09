@@ -21,3 +21,8 @@ Q : Implement a multi chat program
 
 A1 : [Client](./Exp%204/client.py) \
 A2 : [Server](./Exp%204/server.py)
+
+Q : Implement CRC Error detection program in Python
+
+A1 : [Client](./Exp%205/client.py) \
+A2 : [Server](./Exp%205/server.py)
