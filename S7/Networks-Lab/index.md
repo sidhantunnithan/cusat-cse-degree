@@ -26,3 +26,8 @@ Q : Implement CRC Error detection program in Python
 
 A1 : [Client](./Exp%205/client.py) \
 A2 : [Server](./Exp%205/server.py)
+
+Q : Implement Hamming Code Error detection program in Python
+
+A1 : [Client](./Exp%206/client.py) \
+A2 : [Server](./Exp%206/server.py)
