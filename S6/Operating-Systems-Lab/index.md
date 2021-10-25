@@ -58,4 +58,20 @@ of 'n' numbers and display it in the child process
 
 A : [Sum and Average](./cycle3/sumAvg.py)
 
+## Internal Exams
 
+Q : Write a script to check whether the given number is prime or not \
+Q : A parent process accepts n numbers from the keyboard and sends it to a child
+process. The child process displays all prime numbers. Implement this using Pipes.
+
+A1 : [Bash Prime](./internal/prime.sh) \
+A2 : [Python Prime](./internal/prime.py)
+
+## External Exams
+
+Q : Write a shell script to find the largest and second largest number in a given list of numbers. \
+Q : A parent process accepts a list of numbers from the keyboard and sends it to the child process. The child process then prints the largest and second largest number in the list. Implement this using
+pipes
+
+A1 : [Bash 1n2](./external/1n2Largest.sh) \
+A2 : [Python 1n2](./external/1n2Largest.py)
