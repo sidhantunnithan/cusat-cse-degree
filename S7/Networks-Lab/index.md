@@ -31,3 +31,8 @@ Q : Implement Hamming Code Error detection program in Python
 
 A1 : [Client](./Exp%206/client.py) \
 A2 : [Server](./Exp%206/server.py)
+
+Q : Implement a polyalphabetic substitution cipher in Python
+
+A1 : [Client](./Exp%207/client.py) \
+A2 : [Server](./Exp%207/server.py)
