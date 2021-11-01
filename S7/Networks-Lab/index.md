@@ -36,3 +36,8 @@ Q : Implement a polyalphabetic substitution cipher in Python
 
 A1 : [Client](./Exp%207/client.py) \
 A2 : [Server](./Exp%207/server.py)
+
+Q : Implement a transposition cipher in Python
+
+A1 : [Client](./Exp%208/client.py) \
+A2 : [Server](./Exp%208/server.py)
