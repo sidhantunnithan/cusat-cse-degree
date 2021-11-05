@@ -41,3 +41,7 @@ Q : Implement a transposition cipher in Python
 
 A1 : [Client](./Exp%208/client.py) \
 A2 : [Server](./Exp%208/server.py)
+
+Q : Implement LZW compression in Python
+
+A : [LZW](./Exp%209/lzw.py)
