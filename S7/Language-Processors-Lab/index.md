@@ -36,3 +36,17 @@ A : [LP-02-01_ii](./Cycle%202/LP_02_01_ii.l)
 Q : Write a LEX program to count the number of characters, words, lines in a text file
 
 A : [LP-02-02](./Cycle%202/LP_02_02.l)
+
+## Cycle 3
+
+Q : Write a program to check the validity of if-else statements in C(using
+YACC).
+
+A : [LP-03-03.l](./Cycle%203/LP_03_03.l) \
+A : [LP-03-03.y](./Cycle%203/LP_03_03.y)
+
+Q : Write a program to check the validity of 'for statements in C' (using
+YACC).
+
+A : [LP-03-04.l](./Cycle%203/LP_03_04.l) \
+A : [LP-03-04.y](./Cycle%203/LP_03_04.y)
