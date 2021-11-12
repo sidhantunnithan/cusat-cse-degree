@@ -45,3 +45,15 @@ A2 : [Server](./Exp%208/server.py)
 Q : Implement LZW compression in Python
 
 A : [LZW](./Exp%209/lzw.py)
+
+Q : Create a fourway duplex NS2 topology
+
+A : [Fourway Topology](./Exp%2010/fourway%20duplex.tcl)
+
+Q : Simulate a threeway TCP connection in NS2
+
+A : [Threeway TCP](./Exp%2011/tcp.tcl)
+
+Q : Simulate a threeway UDP connection in NS2
+
+A : [Threeway UDP](./Exp%2012/udp.tcl)
