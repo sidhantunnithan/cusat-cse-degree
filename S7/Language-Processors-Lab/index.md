@@ -37,7 +37,32 @@ Q : Write a LEX program to count the number of characters, words, lines in a tex
 
 A : [LP-02-02](./Cycle%202/LP_02_02.l)
 
+Q : Write a LEX program to copy a text file. The new file should contain only words( no
+numbers) which are separated by one blank space
+
+A : [LP-02-03](./Cycle%202/LP_02_03.l)
+
+Q : Write a LEX program which accepts a C program and display
+1. Number of C statements
+2. Number of Identifiers
+3. Number of assignment operators
+4. Number of relational operators
+5. Number of keywords
+6. Number of integers
+
+A : [LP-02-04](./Cycle%202/LP_02_04.l)
+
+Q : Write a LEX program to copy a C program. In the new file the opening curly brace
+should be replaced by the word ‘begin’ and the closing curly brace by the word ‘end’
+
+A : [LP-02-05](./Cycle%202/LP_02_05.l)
+
 ## Cycle 3
+
+Q : Write a program using Yacc to recognise an arithmetic expression
+
+A : [LP-03-02.l](./Cycle%203/LP_03_02.l) \
+A : [LP-03-02.y](./Cycle%203/LP_03_02.y)
 
 Q : Write a program to check the validity of if-else statements in C(using
 YACC).
